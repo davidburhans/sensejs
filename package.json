@@ -1,0 +1,23 @@
+{
+  "name": "sensejs",
+  "version": "0.0.0",
+  "description": "sensejs =======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidburhans/sensejs.git"
+  },
+  "author": "David Burhans <david.burhans@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidburhans/sensejs/issues"
+  },
+  "homepage": "https://github.com/davidburhans/sensejs",
+  "dependencies": {
+    "bleno": "^0.1.5",
+    "debug": "^1.0.2"
+  }
+}
